@@ -1,16 +1,51 @@
-# assignment_todo_app
+# 📝 Flutter To-Do List App
 
-A new Flutter project.
+A To-Do List application built with Flutter. This app helps you manage daily tasks efficiently with features like task categorization, login authentication, search functionality, and task updates.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ **Login Screen** to start the app.
+- 🗂️ **Navigation Buttons** to filter tasks:
+  - **All**
+  - **Completed**
+  - **Pending**
+- ➕ **Add New Task** using the **Add button**.
+- 🔍 **Search** tasks by name.
+- 🔁 **Update Task** by **long-pressing** on a task.
+- ❌ **Delete Task** by **swiping left** on a task.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+| Login Screen | Task View (All) | Add Task | | Completed Task | | Pending Task |
+|--------------|-----------------|----------|
+| ![Login](assets/screenshots/login.png) | ![All Tasks](assets/screenshots/all_task.png) | ![Add Task](assets/screenshots/add_task.png) | ![Completed Task](assets/screenshots/completed_task.png) | ![pending Task](assets/screenshots/pending_task.png) |
+
+
+| Search Task | Update Task | Delete Task | | light/Dark theme |
+|-------------|-------------|--------------|
+| ![Search](assets/screenshots/Search_task.png) | ![Update](assets/screenshots/update_task.png) | ![Delete](assets/screenshots/delete_task.png) | ![Theme](assets/screenshots/theme_support.png) | ![Dark](assets/screenshots/Dark_theme.png) |
+
+
+📦 Dependencies Used
+
+flutter_riverpod
+
+shared_preferences
+
+cupertino_icons
+
+
+
+---
+
+## 🛠️ How to Run
+
+1. **Clone the project:**
+   ```bash
+   git clone https://github.com/kskalisa/assignment-todo-app
+   cd flutter-todo-app
+
