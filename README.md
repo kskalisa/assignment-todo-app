@@ -22,7 +22,7 @@ A To-Do List application built with Flutter. This app helps you manage daily tas
 
 | Login Screen | Task View (All) | Add Task | | Completed Task | | Pending Task |
 |--------------|-----------------|----------|
-| ![Login](assets/screenshots/login.png) | ![All Tasks](assets/screenshots/all_task.png) | ![Add Task](assets/screenshots/add_task.png) | ![Completed Task](assets/screenshots/completed_task.png) | ![pending Task](assets/screenshots/pending_task.png) |
+| ![Login](assets/screenshots/login.PNG) | ![All Tasks](assets/screenshots/all_task.PNG) | ![Add Task](assets/screenshots/add_task.PNG) | ![Completed Task](assets/screenshots/completed_task.PNG) | ![pending Task](assets/screenshots/pending_task.PNG) |
 
 
 | Search Task | Update Task | Delete Task | | light/Dark theme |
