@@ -22,12 +22,12 @@ A To-Do List application built with Flutter. This app helps you manage daily tas
 
 | Login Screen | Task View (All) | Add Task | | Completed Task | | Pending Task |
 |--------------|-----------------|----------|
-| ![Login](assets/screenshots/login.PNG) | ![All Tasks](assets/screenshots/all_task.PNG) | ![Add Task](assets/screenshots/add_task.PNG) | ![Completed Task](assets/screenshots/completed_task.PNG) | ![pending Task](assets/screenshots/pending_task.PNG) |
+| ![Login](assets/screenshots/login.PNG) | ![All Tasks](assets/screenshots/All_Task.PNG) | ![Add Task](assets/screenshots/Add_Task.PNG) | ![Completed Task](assets/screenshots/Completed_Task.PNG) | ![pending Task](assets/screenshots/Pending_Task.PNG) |
 
 
 | Search Task | Update Task | Delete Task | | light/Dark theme |
 |-------------|-------------|--------------|
-| ![Search](assets/screenshots/Search_task.PNG) | ![Update](assets/screenshots/update_task.PNG) | ![Delete](assets/screenshots/delete_task.PNG) | ![Theme](assets/screenshots/theme_support.PNG) | ![Dark](assets/screenshots/Dark_theme.PNG) |
+| ![Search](assets/screenshots/Search_task.PNG) | ![Update](assets/screenshots/Update_Task.PNG) | ![Delete](assets/screenshots/delete_task.PNG) | ![Theme](assets/screenshots/theme_support.PNG) | ![Dark](assets/screenshots/Dark_theme.PNG) |
 
 
 📦 Dependencies Used
