@@ -27,7 +27,7 @@ A To-Do List application built with Flutter. This app helps you manage daily tas
 
 | Search Task | Update Task | Delete Task | | light/Dark theme |
 |-------------|-------------|--------------|
-| ![Search](assets/screenshots/Search_task.PNG) | ![Update](assets/screenshots/Update_Task.PNG) | ![Delete](assets/screenshots/delete_task.PNG) | ![Theme](assets/screenshots/theme_support.PNG) | ![Dark](assets/screenshots/Dark_theme.PNG) |
+| ![Search](assets/screenshots/search_task.PNG) | ![Update](assets/screenshots/Update_Task.PNG) | ![Delete](assets/screenshots/delete_task.PNG) | ![Theme](assets/screenshots/theme_support.PNG) | ![Dark](assets/screenshots/Dark_theme.PNG) |
 
 
 📦 Dependencies Used
